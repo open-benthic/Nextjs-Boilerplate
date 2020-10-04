@@ -1,6 +1,11 @@
 import Head from 'next/head';
 import styles from '../styles/Home.module.scss';
-import Title from '../components/Title';
+import Title from '../components/title';
+
+
+import { useState } from 'react';
+
+import { useQuery } from 'react-query';
 export default function Home() {
   return (
     <div className={styles.container}>
@@ -11,7 +16,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <Title>
-          Welcome to <a href="https://nextjs.org">Next.js!</a>
+          Welcome to <a href="/user/all">GitHubiNo!</a>
         </Title>
         <p className={styles.description}>
           Get started by editing{' '}
