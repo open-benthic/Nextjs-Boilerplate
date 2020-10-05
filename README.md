@@ -22,6 +22,6 @@ _all the tools you need for a useful and clean nextjs project already configured
 
 
 
-`yarn` or `npm i` for installing packages from the cloud
-`yarn dev` or `npm run dev` for starting new development server on port 3000
-also use `yarn build` or `npm run build` for generating files for production
+`yarn` or `npm i` for installing packages from the cloud  
+`yarn dev` or `npm run dev` for starting new development server on port 3000  
+also use `yarn build` or `npm run build` for generating files for production  
