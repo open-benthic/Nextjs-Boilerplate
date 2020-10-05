@@ -2,7 +2,7 @@
 
 ### Dont waste your time creating and configuring nextjs projects
 
-_all the tools you need for a complete and clear nextjs project already setup here_
+_all the tools you need for a useful and clean nextjs project already configured here_
 
 #### This project contains :
 
