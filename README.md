@@ -1,4 +1,4 @@
-# Next.JS Boilerplate
+# Next.JS Awesome Boilerplate
 
 ### Dont waste your time creating and configuring nextjs projects
 
