@@ -10,7 +10,7 @@ _all the tools you need for a complete and clear nextjs project already setup he
 
 - [Next.JS ]()(9.5) : Best SSR/SSG frameword for React apps (PWA and code-spiliting supported by default)
 - [Typescript]()(4.0): Ready to work without hassle on big teams & big projects
-- [React-Query]()(2.23) : Dont waste your time handling server states in redux (also support cache & re-validation)
+- [React-Query]()(2.23) : Dont waste your time handling server states in redux (also supports cache & re-validation)
 - [Recoil]()(0.13) : A new Facebook made state-managment library with easier usage and faster performace than both Redux and useContext+useReducer solutions
 - [Styled-Component]()(5.2) : Create & use customized react component in seconds
 - Both Global and scoped SCSS styling
