@@ -4,7 +4,7 @@
 
 _all the tools you need for a complete and clear nextjs project already setup here_
 
-#### This project containes :
+#### This project contains :
 
 > A fresh new project _(created with create-next-app)_ with a standard structure that includes
 
